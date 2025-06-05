@@ -1,0 +1,100 @@
+Mar 06 18:49:33 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 18:49:33 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 18:49:33 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 18:49:33 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 18:49:33 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 18:49:46 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 18:50:19 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 18:50:31 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 18:50:31 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 18:50:31 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 18:50:31 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 18:50:31 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 18:50:51 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 18:51:23 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 18:51:30 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 18:51:30 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 18:51:30 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 18:51:30 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 18:51:30 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 18:51:55 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 18:52:20 Honey PackageKit[2976]: daemon quit
+Mar 06 18:52:20 Honey systemd[1]: packagekit.service: Deactivated successfully.
+Mar 06 19:09:17 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:15:17 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:15:17 Honey kernel: hv_utils: TimeSync IC version 4.0
+Mar 06 19:15:23 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:15:23 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:15:23 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:15:23 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:15:23 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:15:37 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:16:08 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:16:23 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:16:23 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:16:23 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:16:23 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:16:23 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:16:40 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:17:00 Honey CRON[4426]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Mar 06 19:17:00 Honey CRON[4427]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Mar 06 19:17:00 Honey CRON[4426]: pam_unix(cron:session): session closed for user root
+Mar 06 19:17:12 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:17:22 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:17:22 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:17:22 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:17:22 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:17:22 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:17:44 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:18:16 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:18:20 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:18:20 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:18:20 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:18:20 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:18:20 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:18:47 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:19:19 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:19:19 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:19:19 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:19:19 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:19:19 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:19:19 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:19:19 Honey unknown: WSL (198) ERROR: CheckConnection: getaddrinfo() failed: -5
+Mar 06 19:19:19 Honey systemd-journald[51]: Time jumped backwards, rotating.
+Mar 06 19:19:51 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:20:17 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:20:17 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:20:17 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:20:17 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:20:17 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:20:23 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:20:54 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:21:16 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:21:16 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:21:16 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:21:16 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:21:16 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:21:26 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:22:13 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:22:13 Honey systemd[1]: man-db.service - Daily man-db regeneration was skipped because of an unmet condition check (ConditionACPower=true).
+Mar 06 19:22:14 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:22:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:22:14 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:22:14 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:22:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:23:14 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:23:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:23:14 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:23:14 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:23:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:23:17 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:23:49 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:24:14 Honey wsl-pro-service[169]: INFO Daemon: connecting to Windows Agent
+Mar 06 19:24:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Connecting"
+Mar 06 19:24:14 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:24:14 Honey wsl-pro-service[169]: INFO Reconnecting to Windows host in 60 seconds
+Mar 06 19:24:14 Honey wsl-pro-service[169]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Mar 06 19:24:21 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:24:53 Honey systemd-resolved[106]: Clock change detected. Flushing caches.
+Mar 06 19:24:58 Honey sudo[4464]:    airon : TTY=pts/0 ; PWD=/home/airon/syslog_monitoring ; USER=root ; COMMAND=/usr/bin/journalctl -n 100
+Mar 06 19:24:58 Honey sudo[4464]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

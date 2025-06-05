@@ -1,0 +1,10 @@
+Mar 06 18:49:33 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 18:50:31 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 18:51:30 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:17:00 Honey CRON[4426]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Mar 06 19:18:20 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:19:19 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:21:16 Honey wsl-pro-service[169]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Sahithi/.ubuntupro/.address": open /mnt/c/Users/Sahithi/.ubuntupro/.address: no such file or directory
+Mar 06 19:22:13 Honey systemd[1]: man-db.service - Daily man-db regeneration was skipped because of an unmet condition check (ConditionACPower=true).
+Mar 06 19:24:58 Honey sudo[4464]:    airon : TTY=pts/0 ; PWD=/home/airon/syslog_monitoring ; USER=root ; COMMAND=/usr/bin/journalctl -n 100
+Mar 06 19:24:58 Honey sudo[4464]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
